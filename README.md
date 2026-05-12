@@ -25,3 +25,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/naico-wang/vps-initialize/ma
 - Zsh
 - Starship
 - eza
+
+## Network Backtrace
+
+```bash
+curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
+```
